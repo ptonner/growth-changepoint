@@ -1,0 +1,4 @@
+*.pyc
+data.csv
+meta.csv
+.ipynb_checkpoints
